@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Shubin-vadim&color=blueviolet) <br>
+I like to study:
+<p>⚡machine learning</p> 
+<p>🤖 neural networks</p> 
+<p>🎓 math</p> 
+<p>🚀 rocket science</p> 
+
 <!--
 **Shubin-vadim/Shubin-vadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
